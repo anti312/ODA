@@ -1,4 +1,4 @@
-# agentic-OD
+# Object Detection Agentic
 
 **Agentic-OD** is a repository designed for the automatic creation of bounding boxes in datasets using the [Moondream model](https://huggingface.co/vikhyatk/moondream2) from Hugging Face. This project leverages Moondream's capabilities to streamline the process of annotating datasets, enabling efficient object detection tasks.
 
